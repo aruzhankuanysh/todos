@@ -1,0 +1,62 @@
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "Планирование отпуска на месяц",
+    "completed": false
+  },
+  {
+    "userId": 2,
+    "id": 2,
+    "title": "Подготовка к презентации на работе",
+    "completed": false
+  },
+  {
+    "userId": 4,
+    "id": 3,
+    "title": "Покупка подарков на день рождения друга",
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "id": 4,
+    "title": "Запись на курс фитнеса и регулярные тренировки",
+    "completed": true
+  },
+  {
+    "userId": 3,
+    "id": 5,
+    "title": "Ежедневная зарядка по утрам",
+    "completed": false
+  },
+  {
+    "userId": 3,
+    "id": 6,
+    "title": "Чтение 30 минут перед сном",
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "id": 7,
+    "title": "Пить 8 стаканов воды в течение дня",
+    "completed": false
+  },
+  {
+    "userId": 3,
+    "id": 8,
+    "title": "Планирование бюджета на месяц",
+    "completed": true
+  },
+  {
+    "userId": 4,
+    "id": 9,
+    "title": "Утренняя медитация каждый день",
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "id": 10,
+    "title": "Подготовка к экзаменам на месяц",
+    "completed": true
+  }
+]
